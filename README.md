@@ -29,11 +29,6 @@ General styles for layout, typography, and animations.
 Specific styles for the header, form, buttons, and image gallery.
 Media queries to ensure responsiveness on smaller screens.
 Animations for buttons and bubble effects in the header.
-Suggested README File for GitHub
-markdown
-Insert Code
-Edit
-Copy code
 
 ## Description
 
